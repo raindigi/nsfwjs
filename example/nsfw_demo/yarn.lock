@@ -5705,8 +5705,10 @@ npmlog@^4.0.2:
     gauge "~2.7.3"
     set-blocking "~2.0.0"
 
-nsfwjs@../../:
-  version "2.0.1"
+nsfwjs@2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/nsfwjs/-/nsfwjs-2.1.0.tgz#20e817fd685625b7728b5b0c852db7b1cad7c522"
+  integrity sha512-mRdPUX0aJJu73IMpQ0G9AnYmKV9IVYYE3cJAX/mhOuLqKpTg000SD9GotDQmyNSGTKSUdp5Gr5CbDVrIovuyWQ==
   dependencies:
     libgif "0.0.2"
 
